@@ -13,17 +13,24 @@ h1{
 h2{
     color:blue
 }
-
+h3{
+    color: rgb(25, 0, 255)
+}
+p{
+    font-weight: bold;
+    font-size: 16px;
+}
 .header{
    
     margin-bottom: 30px;
 }
 .left{
+
     height: 300px;
     padding-top: 100px;
     width: 40%;
-    background-color: rgba(0, 255, 0, 0.459);
-    margin-left: 60px;
+    background-color: rgba(42, 230, 255, 0.459);
+    margin-left: 450px;
     border-radius: 5px;
 }
 .right{
